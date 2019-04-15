@@ -6,6 +6,19 @@
 2. sql分割,根据`;`将sql分割为数组
 3. 去除sql中的的注释(目前支持`--`,`/**/`类型注释)
 
+## Build (standard js)
+Requirement: 
+- typescript (for build .ts)
+- browserify (for bundling to avoid requirejs)
+- uglify-js (for minify)
+```sh
+npm install -g typescript
+npm install -g browserify
+npm install -g uglify-js
+# build with output to lib
+# update index.js and build bundle js
+./bundling.sh
+```
 
 ## 用法
 
