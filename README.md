@@ -1,3 +1,7 @@
+> **Warning**
+> Project will be archived as read-only. This project still can be use, But there will be no update until unknown date announcement. 
+ 
+ 
 # dt-sql-parser
 
 本项目用于处理sql，目前含有功能
